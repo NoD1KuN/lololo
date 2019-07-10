@@ -1,0 +1,6 @@
+D:\Белимов\Func\Func\bin\Debug\Func.exe.config
+D:\Белимов\Func\Func\bin\Debug\Func.exe
+D:\Белимов\Func\Func\bin\Debug\Func.pdb
+D:\Белимов\Func\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+D:\Белимов\Func\Func\obj\Debug\Func.exe
+D:\Белимов\Func\Func\obj\Debug\Func.pdb
